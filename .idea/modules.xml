@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/testing_course.iml" filepath="$PROJECT_DIR$/testing_course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing_course_sandbox.iml" filepath="$PROJECT_DIR$/testing_course_sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing_course_sandbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/testing_course_sandbox.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing_course_sandbox.test.iml" filepath="$PROJECT_DIR$/.idea/modules/testing_course_sandbox.test.iml" />
     </modules>
   </component>
 </project>
